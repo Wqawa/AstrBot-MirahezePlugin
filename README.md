@@ -14,4 +14,4 @@
 ### 方法一：通过 Git 克隆（推荐）
 ```bash
 cd /path/to/AstrBot/data/plugins
-git clone https://github.com/你的用户名/astrbot_plugin_miraheze
+git clone https://github.com/Wqawa/astrbot_plugin_miraheze
