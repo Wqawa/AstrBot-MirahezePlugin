@@ -1,0 +1,6 @@
+name: astrbot_plugin_miraheze
+display_name: Miraheze Wiki 查询
+desc: 查询 SEWH.miraheze.org 上的 Wiki 页面内容
+author: YourName
+version: 1.0.0
+support_platforms: []
