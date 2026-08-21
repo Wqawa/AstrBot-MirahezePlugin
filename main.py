@@ -19,7 +19,7 @@ class MirahezePlugin(Star):
             "formatversion": "2"
         }
         headers = {
-            "User-Agent": "AstrBot-MirahezePlugin/1.0 (https://github.com/你的用户名/astrbot_plugin_miraheze)"
+            "User-Agent": "https://github.com/Wqawa/AstrBot-MirahezePlugin"
         }
 
         async with aiohttp.ClientSession(headers=headers) as session:
